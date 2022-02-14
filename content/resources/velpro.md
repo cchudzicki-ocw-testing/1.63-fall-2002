@@ -8,7 +8,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: velpro.gif
+type: OCWImage
 uid: 05f08378-9a1b-90d8-aaf9-26af288885b9
 ---

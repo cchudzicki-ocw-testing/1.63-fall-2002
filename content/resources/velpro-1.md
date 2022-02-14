@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Tools
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Image
 title: velpro.gif
+type: OCWImage
 uid: f45a9321-1864-3929-f81d-91d3afdc6da6
 ---
