@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 33lamjet.pdf
-type: OCWFile
 uid: 50db0512-642a-085d-8f49-a18234276cf0
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: dispchan.pdf
-type: OCWFile
 uid: 7160ede6-da36-1cf5-91f4-ffe384b471e0
 ---

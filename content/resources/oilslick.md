@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: oilslick.pdf
-type: OCWFile
 uid: d00daa98-e845-62a5-c889-4049ea9dfc6b
 ---

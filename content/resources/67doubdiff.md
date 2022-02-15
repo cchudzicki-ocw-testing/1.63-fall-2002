@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 67Doubdiff.pdf
-type: OCWFile
 uid: 7a71a1e8-f09d-000c-ad5e-45a158d5481b
 ---

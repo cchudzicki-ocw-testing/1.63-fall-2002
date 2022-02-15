@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 21thinlayer.pdf
-type: OCWFile
 uid: 2130e49b-ab34-797b-794f-299468d5ef2b
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: disparter.pdf
-type: OCWFile
 uid: e6f1b998-c5f3-cea7-b843-f920ad0b319c
 ---

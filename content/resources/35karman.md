@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 35Karman.pdf
-type: OCWFile
 uid: 1c707e71-33d6-7c58-c248-e14dac7b4b60
 ---

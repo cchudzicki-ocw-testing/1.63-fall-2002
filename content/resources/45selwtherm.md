@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 45selwtherm.pdf
-type: OCWFile
 uid: 205e8673-f1fc-eb32-6f2d-4294093d29da
 ---

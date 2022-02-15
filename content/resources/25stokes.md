@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 25Stokes.pdf
-type: OCWFile
 uid: 359411f0-a9d2-cd5b-7368-dab9cc34cdd7
 ---

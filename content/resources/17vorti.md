@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 17vorti.pdf
-type: OCWFile
 uid: 3bfe7f2f-1855-a133-c62c-3b0c9866409b
 ---

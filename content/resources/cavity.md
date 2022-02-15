@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: cavity.pdf
-type: OCWFile
 uid: e3e552f2-bcbe-b281-001d-0acb44596e11
 ---

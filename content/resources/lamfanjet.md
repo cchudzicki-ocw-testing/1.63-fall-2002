@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lamfanjet.pdf
-type: OCWFile
 uid: 96c90649-f602-5092-9227-c37cb1bee379
 ---

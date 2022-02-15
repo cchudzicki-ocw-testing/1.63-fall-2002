@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 38impulsive.pdf
-type: OCWFile
 uid: 686bfd52-4395-cd67-b4d1-e70e7c8370b4
 ---

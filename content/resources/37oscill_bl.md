@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 37oscill_BL.pdf
-type: OCWFile
 uid: d5ca2a02-79fe-424e-f263-b52f0058c705
 ---

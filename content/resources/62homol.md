@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 62homoL.pdf
-type: OCWFile
 uid: 7ab33e54-6ce9-62e6-4d74-f76779b88c68
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 24spreadmud.pdf
-type: OCWFile
 uid: 087d3e65-e165-8673-196b-1d38588cdf28
 ---

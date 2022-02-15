@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 11vorinhom.pdf
-type: OCWFile
 uid: 71fbefe8-500f-1c11-db6e-bc0d2720ba46
 ---

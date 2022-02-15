@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 7diffheat.pdf
-type: OCWFile
 uid: e6dfb416-5327-87a7-114b-7a3af9212348
 ---

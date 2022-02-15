@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 43MTwind.pdf
-type: OCWFile
 uid: 5c9b2d0d-686f-7461-cdad-aff7ccaea410
 ---

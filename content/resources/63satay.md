@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 63SaTay.pdf
-type: OCWFile
 uid: 0fe5e99f-e5d5-bcdf-daec-8dd945c68bb9
 ---

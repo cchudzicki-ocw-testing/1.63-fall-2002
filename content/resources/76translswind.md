@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 76TransLSwind.pdf
-type: OCWFile
 uid: a2f67847-7a63-b103-1e77-ff504af7e1e5
 ---

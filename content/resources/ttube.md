@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Ttube.pdf
-type: OCWFile
 uid: 895a04d1-8eac-d065-7b41-a3058d8263f2
 ---

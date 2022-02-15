@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 9slowmud.pdf
-type: OCWFile
 uid: f2d639fa-63c2-cda7-2a33-c4be5d4498a1
 ---

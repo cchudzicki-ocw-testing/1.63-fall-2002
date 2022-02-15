@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 73shallwat.pdf
-type: OCWFile
 uid: f5b50c32-8847-ce88-9d44-eecfe0901e60
 ---

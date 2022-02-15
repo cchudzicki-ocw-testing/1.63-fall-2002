@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 16stressstrain.pdf
-type: OCWFile
 uid: 0c5e315f-2b97-fff9-48cb-35f10a97894c
 ---

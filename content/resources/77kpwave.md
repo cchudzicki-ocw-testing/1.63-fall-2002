@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 77KPwave.pdf
-type: OCWFile
 uid: f1c01636-cd40-2f55-41ed-b574ec90135c
 ---

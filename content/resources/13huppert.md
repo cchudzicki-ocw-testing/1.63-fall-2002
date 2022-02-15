@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 13Huppert.pdf
-type: OCWFile
 uid: 8ba5d354-c502-2df9-7e14-1d12008e27f2
 ---

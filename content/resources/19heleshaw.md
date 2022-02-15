@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 19heleshaw.pdf
-type: OCWFile
 uid: d935daab-62f4-e2dc-3c5f-37dd7f6361c5
 ---

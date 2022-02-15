@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 19Scasim.pdf
-type: OCWFile
 uid: 1711dd22-a2f6-1347-1f60-3af6d67e165a
 ---

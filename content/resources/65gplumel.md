@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 65gplumeL.pdf
-type: OCWFile
 uid: 198bb5c5-8c8d-7774-82a0-7ba04c591214
 ---

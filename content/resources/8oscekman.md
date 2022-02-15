@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 8oscekman.pdf
-type: OCWFile
 uid: db710291-597e-173a-f791-e46eae567caf
 ---

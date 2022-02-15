@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 66Lapwoodbkd.pdf
-type: OCWFile
 uid: 8a91713c-c9bf-78f6-225e-f92f121f478e
 ---

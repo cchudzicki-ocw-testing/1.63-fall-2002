@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 22lubri.pdf
-type: OCWFile
 uid: 9e498d3a-f7be-929f-f8f5-28b740f68cf4
 ---

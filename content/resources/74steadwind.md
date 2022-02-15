@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 74steadwind.pdf
-type: OCWFile
 uid: 043cff00-c815-1428-223d-af74973a07c0
 ---

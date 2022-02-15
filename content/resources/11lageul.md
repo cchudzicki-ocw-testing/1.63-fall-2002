@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 11LagEul.pdf
-type: OCWFile
 uid: 3823cd99-2cab-cd18-3023-ea0cad9226a2
 ---

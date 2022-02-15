@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: disposcl.pdf
-type: OCWFile
 uid: 09309339-932d-9917-dad1-31cb32376be4
 ---

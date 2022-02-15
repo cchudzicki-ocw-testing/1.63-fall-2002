@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 52KHcontin.pdf
-type: OCWFile
 uid: 49955a0c-0c0f-8641-ddac-43bab9d4ec9d
 ---

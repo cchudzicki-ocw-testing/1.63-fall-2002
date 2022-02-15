@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 13transthm.pdf
-type: OCWFile
 uid: 4bbeb3c0-de95-0342-2b60-49d2f9760af9
 ---

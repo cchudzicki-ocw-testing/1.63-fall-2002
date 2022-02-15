@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 64geoconvec.pdf
-type: OCWFile
 uid: a371fb42-b71a-98b8-5881-d5d03e3d8e21
 ---

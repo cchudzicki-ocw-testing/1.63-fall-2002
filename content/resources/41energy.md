@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 41energy.pdf
-type: OCWFile
 uid: 20946c50-7055-a595-c444-22b3616a83da
 ---

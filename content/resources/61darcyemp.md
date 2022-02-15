@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 61darcyEmp.pdf
-type: OCWFile
 uid: 47962c42-f9c2-c96e-f1c5-2e8de20ce9d7
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: cirjet.pdf
-type: OCWFile
 uid: fc605a23-fc0c-de33-7b4d-f3f4b9f6f2db
 ---

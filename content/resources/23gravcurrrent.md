@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 23gravcurrrent.pdf
-type: OCWFile
 uid: d369c0d8-f1c5-9f8d-1cdf-7a0f689c145f
 ---

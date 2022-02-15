@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 44buoplum.pdf
-type: OCWFile
 uid: 5a822c24-3fcf-47df-9ad5-39be01ce4cf7
 ---

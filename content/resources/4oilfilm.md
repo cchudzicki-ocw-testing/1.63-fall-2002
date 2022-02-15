@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 4oilfilm.pdf
-type: OCWFile
 uid: 83aa7e8e-19c3-6e34-2645-bf96b9c4ef3c
 ---

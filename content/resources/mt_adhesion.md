@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: mt_adhesion.pdf
-type: OCWFile
 uid: 09b1caeb-c2c0-1182-f9b6-0d92fe07a232
 ---

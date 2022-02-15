@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 54OSeqn.pdf
-type: OCWFile
 uid: 181f377b-2911-ce3b-42ca-808d2effbc2b
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 75cyclone.pdf
-type: OCWFile
 uid: 5eb39d25-2373-5557-93e9-410457c327ea
 ---

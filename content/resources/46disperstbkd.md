@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 46disperstbkd.pdf
-type: OCWFile
 uid: 9a3de12c-8dae-4665-c64f-93f71b9763f3
 ---

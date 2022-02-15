@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hotspring.pdf
-type: OCWFile
 uid: 99016a21-856d-3fba-1c23-0f9b5146d392
 ---

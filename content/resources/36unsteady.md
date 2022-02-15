@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 36unsteady.pdf
-type: OCWFile
 uid: 3e9a1c82-21c5-1a88-6137-f058c4abd9cb
 ---

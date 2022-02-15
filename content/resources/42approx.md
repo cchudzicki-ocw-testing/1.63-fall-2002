@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 42approx.pdf
-type: OCWFile
 uid: 5b8ff79a-5462-7f08-e609-2d10759346dc
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 51KHdiscont.pdf
-type: OCWFile
 uid: 6be75c54-11da-0763-7038-157eefb9f91d
 ---

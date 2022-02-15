@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 32HiReBL.pdf
-type: OCWFile
 uid: 6677ae6c-8bd7-6058-c7b4-c65fa55a59dd
 ---

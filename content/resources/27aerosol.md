@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 27Aerosol.pdf
-type: OCWFile
 uid: e545246b-3cd1-722f-d35a-1fa12bda8987
 ---

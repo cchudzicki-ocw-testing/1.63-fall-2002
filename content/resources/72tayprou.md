@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 72TayProu.pdf
-type: OCWFile
 uid: c5271481-0693-e858-3584-b39f5d057af9
 ---

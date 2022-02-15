@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 12kinematics.pdf
-type: OCWFile
 uid: b30d6961-dba0-d1e6-9481-6708886d6dae
 ---

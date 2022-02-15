@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 47dispersosci.pdf
-type: OCWFile
 uid: a5b8138c-c9cf-0b61-3e42-17bf19209d53
 ---

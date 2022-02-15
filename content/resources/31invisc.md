@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 31Invisc.pdf
-type: OCWFile
 uid: b206c496-2f48-9973-0a12-8a7fb95f7e54
 ---

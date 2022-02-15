@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 15momem.pdf
-type: OCWFile
 uid: 9c89bd5f-d8f9-c4a4-748a-64e2c333acc1
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 34pressgrad.pdf
-type: OCWFile
 uid: 0f824d4e-f8bc-662c-56eb-755476ed344f
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 12radome.pdf
-type: OCWFile
 uid: c7232f95-b03b-b892-5d7b-ef6b4ffee5f8
 ---

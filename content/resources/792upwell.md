@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 792upwell.pdf
-type: OCWFile
 uid: eebd5a2e-4e14-0ad9-3de2-ad482413de6c
 ---

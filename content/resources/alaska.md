@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: alaska.pdf
-type: OCWFile
 uid: 4f229d17-bd60-932f-2272-eb35b10ecb2b
 ---
