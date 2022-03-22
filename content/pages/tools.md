@@ -25,4 +25,4 @@ Description:
 
 Evolution of the profile of a certain mass of fluid on the inclined plan (Refer to Chapter 2)
 
-{{< resource d79239b4-1cf9-99c2-d5bd-93c9fdb9a464 "Profile evolution." >}}
+{{< resource "d79239b4-1cf9-99c2-d5bd-93c9fdb9a464" >}}
