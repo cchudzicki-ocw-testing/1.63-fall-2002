@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the homework assignments for the course, which
+  are assigned and organized by topics covered in the lecture notes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
